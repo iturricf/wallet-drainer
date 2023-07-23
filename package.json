@@ -10,8 +10,8 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Cristian Iturri <iturri.cf@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.4.0",
     "@types/yargs": "^17.0.24",
