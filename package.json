@@ -1,0 +1,25 @@
+{
+  "name": "wallet-drainer",
+  "version": "0.0.1",
+  "description": "EVM Emergency wallet drainer",
+  "bin": {
+    "wallet-drainer": "./bin/wallet-drainer.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "@types/yargs": "^17.0.24",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "yargs": "^17.7.2"
+  }
+}
